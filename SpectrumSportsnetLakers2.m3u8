@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://fortv.cc:8080/xGSh0a/969113/20946
-http://fortv.cc:8080/4T4Df8/969875/21842

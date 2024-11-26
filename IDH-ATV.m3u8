@@ -6,3 +6,4 @@ https://cdn12jtedge.indihometv.com/atm/hlsv3/atv/atv-avc1_600000=1-mp4a_96000=2.
 https://cdn12jtedge.indihometv.com/atm/hlsv3/atv/atv-avc1_800000=3-mp4a_96000=2.m3u8?encp=&uid=&expp=
 #EXT-X-STREAM-INF:BANDWIDTH=1505855,AVERAGE-BANDWIDTH=1368959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
 https://cdn12jtedge.indihometv.com/atm/hlsv3/atv/atv-avc1_1200000=4-mp4a_96000=2.m3u8?encp=&uid=&expp=
+#EXT-X-ENDLIST
